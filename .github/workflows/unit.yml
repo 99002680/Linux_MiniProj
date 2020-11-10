@@ -20,4 +20,4 @@ jobs:
     - name: Install Cunit
       run: sudo apt-get -y install libcunit1 libcunit1-doc libcunit1-dev 
     - name: make 
-      run:  make Linux_MiniProj
+      run:  make Linux-Mini-Project
