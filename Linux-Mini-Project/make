@@ -1,0 +1,3 @@
+all:
+	gcc books.c -pthread -o all
+clean:
